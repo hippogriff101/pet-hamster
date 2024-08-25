@@ -1,3 +1,8 @@
+Hi, I made a microbit project, It's cool. I guess. 
+
+MakeCodeMicrobit made this repo for me.
+
+________________________________________________________________________________________________________________
 
 > Open this page at [https://hippogriff101.github.io/pet-hamster/](https://hippogriff101.github.io/pet-hamster/)
 
